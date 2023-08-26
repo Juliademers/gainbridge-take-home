@@ -1,7 +1,7 @@
 # Gainbridge Test plan
 
 ## Overview 
-I built this testing repo used the generic init playwright repo commands, and follow their suggested test layout. All tests exist within the test folder, git hub actions within the Yaml file, and general configs within the playwright.config file. 
+I built this testing repo using the generic init playwright repo commands, and follow their suggested test layout. All tests exist within the test folder, git hub actions within the Yaml file, and general configs within the playwright.config file. 
 
 ## Suites
 While I only had time to build out the example tests within the regression suite, I did also add test skeletons for what could be an E2E suite. 
